@@ -217,6 +217,7 @@ body{
 }
 .ttd{
     width: 450px;
+    margin-top: 30px;
 }
 .header{
     display: flex;
